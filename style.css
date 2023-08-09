@@ -1,0 +1,40 @@
+a {
+    
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+#link1 {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+#link3 {
+    color: black;
+    text-decoration: none;
+    text-transform: none;
+    text-shadow: 1px 1px 3px red, 2px -1px 3px blue, 3px -1px 4px darkgreen;
+}
+#link2 {
+    text-transform: uppercase;
+    color: black;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: hotpink;
+    text-decoration-thickness: 5px;
+}
+
+#ptag2 {
+    color: red;
+    text-indent: 50px;
+    word-spacing: 5px;
+    line-height: 1.5;
+    white-space: pre-line;
+    font-family: cursive;
+}
+#ptag {
+    color: rebeccapurple;
+    text-indent: 50px;
+    word-spacing: 5px;
+    line-height: 1.5;
+    white-space: pre-line;
+    font-family:'Borel', cursive;
+}
